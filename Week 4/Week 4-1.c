@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main()
 {
-    int A, B, C, D, E, F, G, i, j, r1, r2, r3;
+    int A, B, C, D, E, F, G, i, J, r1, r2, r3;
     printf("Enter values of A, B, C, D, E, F, G: ");
     scanf("%d %d %d %d %d %d %d", &A, &B, &C, &D, &E, &F, &G);
     /* a */
